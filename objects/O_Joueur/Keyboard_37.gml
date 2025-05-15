@@ -15,7 +15,16 @@ var l46522069_0 = collision_line(x + 0, y + 0, x + 0, y + 63, O_Collision, true,
 	/// @DnDParent : 46522069
 	/// @DnDArgument : "speed" "-Walkspeed"
 	/// @DnDArgument : "type" "1"
-	hspeed = -Walkspeed;}
+	hspeed = -Walkspeed;
+
+	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+	/// @DnDVersion : 1
+	/// @DnDHash : 5AD5DE51
+	/// @DnDParent : 46522069
+	/// @DnDArgument : "spriteind" "S_Joueur_Gauche"
+	/// @DnDSaveInfo : "spriteind" "S_Joueur_Gauche"
+	sprite_index = S_Joueur_Gauche;
+	image_index = 0;}
 
 /// @DnDAction : YoYo Games.Common.Else
 /// @DnDVersion : 1

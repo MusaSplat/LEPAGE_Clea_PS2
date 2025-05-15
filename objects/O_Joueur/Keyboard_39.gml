@@ -17,7 +17,16 @@ var l7A733AC1_0 = collision_line(x + 64, y + 0, x + 64, y + 63, O_Collision, tru
 	/// @DnDParent : 7A733AC1
 	/// @DnDArgument : "speed" "Walkspeed"
 	/// @DnDArgument : "type" "1"
-	hspeed = Walkspeed;}
+	hspeed = Walkspeed;
+
+	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+	/// @DnDVersion : 1
+	/// @DnDHash : 1741AF19
+	/// @DnDParent : 7A733AC1
+	/// @DnDArgument : "spriteind" "S_Joueur_Droite"
+	/// @DnDSaveInfo : "spriteind" "S_Joueur_Droite"
+	sprite_index = S_Joueur_Droite;
+	image_index = 0;}
 
 /// @DnDAction : YoYo Games.Common.Else
 /// @DnDVersion : 1
