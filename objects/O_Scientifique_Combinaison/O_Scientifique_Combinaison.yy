@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"S_Scientifique_Combinaison",
+    "path":"sprites/S_Scientifique_Combinaison/S_Scientifique_Combinaison.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

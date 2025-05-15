@@ -8,10 +8,10 @@
 /// @DnDArgument : "x2_relative" "1"
 /// @DnDArgument : "y2" "63"
 /// @DnDArgument : "y2_relative" "1"
-/// @DnDArgument : "obj" "O_Checkpoint"
+/// @DnDArgument : "obj" "O_Collision"
 /// @DnDArgument : "not" "1"
-/// @DnDSaveInfo : "obj" "O_Checkpoint"
-var l7A733AC1_0 = collision_line(x + 64, y + 0, x + 64, y + 63, O_Checkpoint, true, 1);if(!(l7A733AC1_0)){	/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDSaveInfo : "obj" "O_Collision"
+var l7A733AC1_0 = collision_line(x + 64, y + 0, x + 64, y + 63, O_Collision, true, 1);if(!(l7A733AC1_0)){	/// @DnDAction : YoYo Games.Movement.Set_Speed
 	/// @DnDVersion : 1
 	/// @DnDHash : 3D5B9C5C
 	/// @DnDParent : 7A733AC1

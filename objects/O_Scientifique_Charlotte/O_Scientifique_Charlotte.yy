@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"S_Scientifique_Charlotte",
+    "path":"sprites/S_Scientifique_Charlotte/S_Scientifique_Charlotte.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

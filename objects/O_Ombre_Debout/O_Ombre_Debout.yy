@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"S_Ombre_Debout",
+    "path":"sprites/S_Ombre_Debout/S_Ombre_Debout.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

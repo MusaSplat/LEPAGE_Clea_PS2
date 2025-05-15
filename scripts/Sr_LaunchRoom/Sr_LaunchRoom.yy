@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Sr_LaunchRoom",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"Sr_LaunchRoom",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

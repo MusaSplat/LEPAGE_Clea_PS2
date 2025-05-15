@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"S_Scientifique_Casque",
+    "path":"sprites/S_Scientifique_Casque/S_Scientifique_Casque.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
