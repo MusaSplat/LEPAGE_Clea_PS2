@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"O_Checkpoint",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Joueur","path":"objects/O_Joueur/O_Joueur.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"O_Checkpoint",
   "overriddenProperties":[],
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Checkpoint",
-    "path":"sprites/S_Checkpoint/S_Checkpoint.yy",
+    "name":"S_Checkpoint_NonPris",
+    "path":"sprites/S_Checkpoint_NonPris/S_Checkpoint_NonPris.yy",
   },
   "spriteMaskId":null,
   "visible":true,
