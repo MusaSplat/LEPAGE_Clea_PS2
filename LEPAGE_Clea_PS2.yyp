@@ -54,6 +54,7 @@
     {"id":{"name":"O_Joueur","path":"objects/O_Joueur/O_Joueur.yy",},},
     {"id":{"name":"O_Magnetique_Bleu","path":"objects/O_Magnetique_Bleu/O_Magnetique_Bleu.yy",},},
     {"id":{"name":"O_Magnetique_Rouge","path":"objects/O_Magnetique_Rouge/O_Magnetique_Rouge.yy",},},
+    {"id":{"name":"O_Manager_Cle","path":"objects/O_Manager_Cle/O_Manager_Cle.yy",},},
     {"id":{"name":"O_Manager_Hp","path":"objects/O_Manager_Hp/O_Manager_Hp.yy",},},
     {"id":{"name":"O_Ombre_Debout","path":"objects/O_Ombre_Debout/O_Ombre_Debout.yy",},},
     {"id":{"name":"O_Ombre_Flaque","path":"objects/O_Ombre_Flaque/O_Ombre_Flaque.yy",},},

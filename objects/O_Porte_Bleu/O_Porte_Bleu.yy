@@ -28,7 +28,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"S_Porte_Bleu",
     "path":"sprites/S_Porte_Bleu/S_Porte_Bleu.yy",

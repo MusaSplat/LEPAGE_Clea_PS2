@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"O_Porte_Rouge",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Joueur","path":"objects/O_Joueur/O_Joueur.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"O_Porte_Rouge",
   "overriddenProperties":[],
@@ -26,7 +28,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"S_Porte_Rouge",
     "path":"sprites/S_Porte_Rouge/S_Porte_Rouge.yy",
