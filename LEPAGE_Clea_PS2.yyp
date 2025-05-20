@@ -55,6 +55,7 @@
     {"id":{"name":"O_Magnetique_Bleu","path":"objects/O_Magnetique_Bleu/O_Magnetique_Bleu.yy",},},
     {"id":{"name":"O_Magnetique_Rouge","path":"objects/O_Magnetique_Rouge/O_Magnetique_Rouge.yy",},},
     {"id":{"name":"O_Manager_Cle","path":"objects/O_Manager_Cle/O_Manager_Cle.yy",},},
+    {"id":{"name":"O_Manager_Ennemis","path":"objects/O_Manager_Ennemis/O_Manager_Ennemis.yy",},},
     {"id":{"name":"O_Manager_Hp","path":"objects/O_Manager_Hp/O_Manager_Hp.yy",},},
     {"id":{"name":"O_Ombre_Debout","path":"objects/O_Ombre_Debout/O_Ombre_Debout.yy",},},
     {"id":{"name":"O_Ombre_Flaque","path":"objects/O_Ombre_Flaque/O_Ombre_Flaque.yy",},},
@@ -66,6 +67,7 @@
     {"id":{"name":"O_Scientifique_Charlotte","path":"objects/O_Scientifique_Charlotte/O_Scientifique_Charlotte.yy",},},
     {"id":{"name":"O_Scientifique_Combinaison","path":"objects/O_Scientifique_Combinaison/O_Scientifique_Combinaison.yy",},},
     {"id":{"name":"P_Scientifique","path":"paths/P_Scientifique/P_Scientifique.yy",},},
+    {"id":{"name":"R_Game_Over","path":"rooms/R_Game_Over/R_Game_Over.yy",},},
     {"id":{"name":"R_Niveau","path":"rooms/R_Niveau/R_Niveau.yy",},},
     {"id":{"name":"R_Test","path":"rooms/R_Test/R_Test.yy",},},
     {"id":{"name":"R_UI","path":"rooms/R_UI/R_UI.yy",},},
@@ -103,6 +105,7 @@
     {"roomId":{"name":"R_UI","path":"rooms/R_UI/R_UI.yy",},},
     {"roomId":{"name":"R_Niveau","path":"rooms/R_Niveau/R_Niveau.yy",},},
     {"roomId":{"name":"R_Test","path":"rooms/R_Test/R_Test.yy",},},
+    {"roomId":{"name":"R_Game_Over","path":"rooms/R_Game_Over/R_Game_Over.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

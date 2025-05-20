@@ -9,7 +9,10 @@
     "name":"Ennemis",
     "path":"folders/Objects/Ennemis.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_Manager_Ennemis",
+    "path":"objects/O_Manager_Ennemis/O_Manager_Ennemis.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
