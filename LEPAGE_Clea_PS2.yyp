@@ -57,6 +57,7 @@
     {"id":{"name":"O_Manager_Cle","path":"objects/O_Manager_Cle/O_Manager_Cle.yy",},},
     {"id":{"name":"O_Manager_Ennemis","path":"objects/O_Manager_Ennemis/O_Manager_Ennemis.yy",},},
     {"id":{"name":"O_Manager_Hp","path":"objects/O_Manager_Hp/O_Manager_Hp.yy",},},
+    {"id":{"name":"O_Manager_Ombre","path":"objects/O_Manager_Ombre/O_Manager_Ombre.yy",},},
     {"id":{"name":"O_Ombre_Debout","path":"objects/O_Ombre_Debout/O_Ombre_Debout.yy",},},
     {"id":{"name":"O_Ombre_Flaque","path":"objects/O_Ombre_Flaque/O_Ombre_Flaque.yy",},},
     {"id":{"name":"O_Ombre_Grimpant","path":"objects/O_Ombre_Grimpant/O_Ombre_Grimpant.yy",},},
