@@ -75,6 +75,7 @@
     {"id":{"name":"Sr_ExitGame","path":"scripts/Sr_ExitGame/Sr_ExitGame.yy",},},
     {"id":{"name":"Sr_LaunchRoom","path":"scripts/Sr_LaunchRoom/Sr_LaunchRoom.yy",},},
     {"id":{"name":"S_Bouton","path":"sprites/S_Bouton/S_Bouton.yy",},},
+    {"id":{"name":"S_Cadre_32","path":"sprites/S_Cadre_32/S_Cadre_32.yy",},},
     {"id":{"name":"S_Cadre","path":"sprites/S_Cadre/S_Cadre.yy",},},
     {"id":{"name":"S_Checkpoint_NonPris","path":"sprites/S_Checkpoint_NonPris/S_Checkpoint_NonPris.yy",},},
     {"id":{"name":"S_Checkpoint_Pris","path":"sprites/S_Checkpoint_Pris/S_Checkpoint_Pris.yy",},},
