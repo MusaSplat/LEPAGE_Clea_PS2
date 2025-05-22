@@ -15,9 +15,9 @@ if(invincible1 == false){	/// @DnDAction : YoYo Games.Collisions.If_Collision_
 	/// @DnDArgument : "x2_relative" "1"
 	/// @DnDArgument : "y2" "61"
 	/// @DnDArgument : "y2_relative" "1"
-	/// @DnDArgument : "obj" "O_Manager_Ennemis"
-	/// @DnDSaveInfo : "obj" "O_Manager_Ennemis"
-	var l7DC928CE_0 = collision_line(x + 64, y + 3, x + 64, y + 61, O_Manager_Ennemis, true, 1);if((l7DC928CE_0)){	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDArgument : "obj" "O_Manager_Ombre"
+	/// @DnDSaveInfo : "obj" "O_Manager_Ombre"
+	var l7DC928CE_0 = collision_line(x + 64, y + 3, x + 64, y + 61, O_Manager_Ombre, true, 1);if((l7DC928CE_0)){	/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
 		/// @DnDHash : 34847540
 		/// @DnDParent : 7DC928CE
@@ -43,8 +43,8 @@ if(invincible1 == false){	/// @DnDAction : YoYo Games.Collisions.If_Collision_
 			/// @DnDVersion : 1
 			/// @DnDHash : 3532B94E
 			/// @DnDParent : 2B0BD135
-			/// @DnDArgument : "steps" "100"
-			alarm_set(0, 100);}}
+			/// @DnDArgument : "steps" "60"
+			alarm_set(0, 60);}}
 
 	/// @DnDAction : YoYo Games.Collisions.If_Collision_Shape
 	/// @DnDVersion : 1.1
@@ -56,9 +56,9 @@ if(invincible1 == false){	/// @DnDAction : YoYo Games.Collisions.If_Collision_
 	/// @DnDArgument : "x2_relative" "1"
 	/// @DnDArgument : "y2" "61"
 	/// @DnDArgument : "y2_relative" "1"
-	/// @DnDArgument : "obj" "O_Manager_Ennemis"
-	/// @DnDSaveInfo : "obj" "O_Manager_Ennemis"
-	var l59628007_0 = collision_line(x + 0, y + 3, x + 0, y + 61, O_Manager_Ennemis, true, 1);if((l59628007_0)){	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDArgument : "obj" "O_Manager_Ombre"
+	/// @DnDSaveInfo : "obj" "O_Manager_Ombre"
+	var l59628007_0 = collision_line(x + 0, y + 3, x + 0, y + 61, O_Manager_Ombre, true, 1);if((l59628007_0)){	/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
 		/// @DnDHash : 52F9A594
 		/// @DnDParent : 59628007
@@ -84,5 +84,5 @@ if(invincible1 == false){	/// @DnDAction : YoYo Games.Collisions.If_Collision_
 			/// @DnDVersion : 1
 			/// @DnDHash : 594CD58E
 			/// @DnDParent : 6DB6C1FA
-			/// @DnDArgument : "steps" "100"
-			alarm_set(0, 100);}}}
+			/// @DnDArgument : "steps" "60"
+			alarm_set(0, 60);}}}

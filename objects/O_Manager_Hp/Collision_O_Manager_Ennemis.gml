@@ -43,8 +43,8 @@ if(invincible1 == false){	/// @DnDAction : YoYo Games.Collisions.If_Collision_
 			/// @DnDVersion : 1
 			/// @DnDHash : 66705DE2
 			/// @DnDParent : 559E5942
-			/// @DnDArgument : "steps" "100"
-			alarm_set(0, 100);}}
+			/// @DnDArgument : "steps" "60"
+			alarm_set(0, 60);}}
 
 	/// @DnDAction : YoYo Games.Collisions.If_Collision_Shape
 	/// @DnDVersion : 1.1
@@ -84,5 +84,5 @@ if(invincible1 == false){	/// @DnDAction : YoYo Games.Collisions.If_Collision_
 			/// @DnDVersion : 1
 			/// @DnDHash : 5E9F5C66
 			/// @DnDParent : 48B090E5
-			/// @DnDArgument : "steps" "100"
-			alarm_set(0, 100);}}}
+			/// @DnDArgument : "steps" "60"
+			alarm_set(0, 60);}}}
