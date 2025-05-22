@@ -40,13 +40,6 @@ if(invincible == false){	/// @DnDAction : YoYo Games.Collisions.If_Collision_S
 			/// @DnDArgument : "var" "O_Manager_Hp.invincible1"
 			O_Manager_Hp.invincible1 = true;
 		
-			/// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
-			/// @DnDVersion : 1
-			/// @DnDHash : 5C57F5BF
-			/// @DnDParent : 6C21B258
-			/// @DnDArgument : "msg" ""joueurinvincible""
-			show_debug_message(string("joueurinvincible"));
-		
 			/// @DnDAction : YoYo Games.Common.Variable
 			/// @DnDVersion : 1
 			/// @DnDHash : 21428CA9
@@ -103,13 +96,6 @@ if(invincible == false){	/// @DnDAction : YoYo Games.Collisions.If_Collision_S
 			/// @DnDArgument : "expr" "true"
 			/// @DnDArgument : "var" "O_Manager_Hp.invincible1"
 			O_Manager_Hp.invincible1 = true;
-		
-			/// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
-			/// @DnDVersion : 1
-			/// @DnDHash : 2A51D4F4
-			/// @DnDParent : 21D3EDB8
-			/// @DnDArgument : "msg" ""joueurinvincible""
-			show_debug_message(string("joueurinvincible"));
 		
 			/// @DnDAction : YoYo Games.Common.Variable
 			/// @DnDVersion : 1

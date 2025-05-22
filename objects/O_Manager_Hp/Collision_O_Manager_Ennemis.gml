@@ -26,13 +26,6 @@ if(invincible1 == false){	/// @DnDAction : YoYo Games.Collisions.If_Collision_
 		/// @DnDArgument : "var" "hp"
 		hp += -1;
 	
-		/// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
-		/// @DnDVersion : 1
-		/// @DnDHash : 724092DE
-		/// @DnDParent : 3CD326A2
-		/// @DnDArgument : "msg" ""invincibleennemis""
-		show_debug_message(string("invincibleennemis"));
-	
 		/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
 		/// @DnDHash : 43FF71C0
@@ -73,13 +66,6 @@ if(invincible1 == false){	/// @DnDAction : YoYo Games.Collisions.If_Collision_
 		/// @DnDArgument : "expr_relative" "1"
 		/// @DnDArgument : "var" "hp"
 		hp += -1;
-	
-		/// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
-		/// @DnDVersion : 1
-		/// @DnDHash : 6936B56C
-		/// @DnDParent : 574C0762
-		/// @DnDArgument : "msg" ""invincibleennemis""
-		show_debug_message(string("invincibleennemis"));
 	
 		/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1

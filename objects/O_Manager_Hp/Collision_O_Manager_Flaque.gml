@@ -1,12 +1,12 @@
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
-/// @DnDHash : 6F5B1ABF
+/// @DnDHash : 6CB757AD
 /// @DnDArgument : "var" "invincible1"
 /// @DnDArgument : "value" "false"
 if(invincible1 == false){	/// @DnDAction : YoYo Games.Collisions.If_Collision_Shape
 	/// @DnDVersion : 1.1
-	/// @DnDHash : 78B9C122
-	/// @DnDParent : 6F5B1ABF
+	/// @DnDHash : 7389CF57
+	/// @DnDParent : 6CB757AD
 	/// @DnDArgument : "x1" "64"
 	/// @DnDArgument : "x1_relative" "1"
 	/// @DnDArgument : "y1" "3"
@@ -17,10 +17,10 @@ if(invincible1 == false){	/// @DnDAction : YoYo Games.Collisions.If_Collision_
 	/// @DnDArgument : "y2_relative" "1"
 	/// @DnDArgument : "obj" "O_Manager_Ennemis"
 	/// @DnDSaveInfo : "obj" "O_Manager_Ennemis"
-	var l78B9C122_0 = collision_line(x + 64, y + 3, x + 64, y + 61, O_Manager_Ennemis, true, 1);if((l78B9C122_0)){	/// @DnDAction : YoYo Games.Common.Variable
+	var l7389CF57_0 = collision_line(x + 64, y + 3, x + 64, y + 61, O_Manager_Ennemis, true, 1);if((l7389CF57_0)){	/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
-		/// @DnDHash : 1CEBB12A
-		/// @DnDParent : 78B9C122
+		/// @DnDHash : 27449CD1
+		/// @DnDParent : 7389CF57
 		/// @DnDArgument : "expr" "-1"
 		/// @DnDArgument : "expr_relative" "1"
 		/// @DnDArgument : "var" "hp"
@@ -28,23 +28,28 @@ if(invincible1 == false){	/// @DnDAction : YoYo Games.Collisions.If_Collision_
 	
 		/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
-		/// @DnDHash : 6D26852E
-		/// @DnDParent : 78B9C122
+		/// @DnDHash : 4143733A
+		/// @DnDParent : 7389CF57
 		/// @DnDArgument : "expr" "true"
 		/// @DnDArgument : "var" "invincible1"
 		invincible1 = true;
 	
-		/// @DnDAction : YoYo Games.Instances.Set_Alarm
+		/// @DnDAction : YoYo Games.Common.If_Expression
 		/// @DnDVersion : 1
-		/// @DnDHash : 370C9DBE
-		/// @DnDParent : 78B9C122
-		/// @DnDArgument : "steps" "100"
-		alarm_set(0, 100);}
+		/// @DnDHash : 100DE0AD
+		/// @DnDParent : 7389CF57
+		/// @DnDArgument : "expr" "alarm[0]<=0"
+		if(alarm[0]<=0){	/// @DnDAction : YoYo Games.Instances.Set_Alarm
+			/// @DnDVersion : 1
+			/// @DnDHash : 7D5E8B90
+			/// @DnDParent : 100DE0AD
+			/// @DnDArgument : "steps" "100"
+			alarm_set(0, 100);}}
 
 	/// @DnDAction : YoYo Games.Collisions.If_Collision_Shape
 	/// @DnDVersion : 1.1
-	/// @DnDHash : 6C7C3F1C
-	/// @DnDParent : 6F5B1ABF
+	/// @DnDHash : 5F539B6F
+	/// @DnDParent : 6CB757AD
 	/// @DnDArgument : "x1_relative" "1"
 	/// @DnDArgument : "y1" "3"
 	/// @DnDArgument : "y1_relative" "1"
@@ -53,10 +58,10 @@ if(invincible1 == false){	/// @DnDAction : YoYo Games.Collisions.If_Collision_
 	/// @DnDArgument : "y2_relative" "1"
 	/// @DnDArgument : "obj" "O_Manager_Ennemis"
 	/// @DnDSaveInfo : "obj" "O_Manager_Ennemis"
-	var l6C7C3F1C_0 = collision_line(x + 0, y + 3, x + 0, y + 61, O_Manager_Ennemis, true, 1);if((l6C7C3F1C_0)){	/// @DnDAction : YoYo Games.Common.Variable
+	var l5F539B6F_0 = collision_line(x + 0, y + 3, x + 0, y + 61, O_Manager_Ennemis, true, 1);if((l5F539B6F_0)){	/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
-		/// @DnDHash : 626AF822
-		/// @DnDParent : 6C7C3F1C
+		/// @DnDHash : 32F8B542
+		/// @DnDParent : 5F539B6F
 		/// @DnDArgument : "expr" "-1"
 		/// @DnDArgument : "expr_relative" "1"
 		/// @DnDArgument : "var" "hp"
@@ -64,15 +69,20 @@ if(invincible1 == false){	/// @DnDAction : YoYo Games.Collisions.If_Collision_
 	
 		/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
-		/// @DnDHash : 06C3785E
-		/// @DnDParent : 6C7C3F1C
+		/// @DnDHash : 6D17DCAC
+		/// @DnDParent : 5F539B6F
 		/// @DnDArgument : "expr" "true"
 		/// @DnDArgument : "var" "invincible1"
 		invincible1 = true;
 	
-		/// @DnDAction : YoYo Games.Instances.Set_Alarm
+		/// @DnDAction : YoYo Games.Common.If_Expression
 		/// @DnDVersion : 1
-		/// @DnDHash : 795840CC
-		/// @DnDParent : 6C7C3F1C
-		/// @DnDArgument : "steps" "100"
-		alarm_set(0, 100);}}
+		/// @DnDHash : 3B73C09C
+		/// @DnDParent : 5F539B6F
+		/// @DnDArgument : "expr" "alarm[0]<=0"
+		if(alarm[0]<=0){	/// @DnDAction : YoYo Games.Instances.Set_Alarm
+			/// @DnDVersion : 1
+			/// @DnDHash : 1B0FD5C1
+			/// @DnDParent : 3B73C09C
+			/// @DnDArgument : "steps" "100"
+			alarm_set(0, 100);}}}
