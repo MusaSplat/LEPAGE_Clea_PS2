@@ -6,8 +6,8 @@
   "name":"O_Scientifique_Charlotte",
   "overriddenProperties":[],
   "parent":{
-    "name":"Ennemis",
-    "path":"folders/Objects/Ennemis.yy",
+    "name":"Scientifiques",
+    "path":"folders/Objects/Ennemis/Scientifiques.yy",
   },
   "parentObjectId":{
     "name":"O_Manager_Ennemis",

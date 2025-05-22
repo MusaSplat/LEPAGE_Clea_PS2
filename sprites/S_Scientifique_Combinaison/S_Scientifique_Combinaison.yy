@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Ennemis",
-    "path":"folders/Sprites/Ennemis.yy",
+    "name":"Scientifique",
+    "path":"folders/Sprites/Ennemis/Scientifique.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

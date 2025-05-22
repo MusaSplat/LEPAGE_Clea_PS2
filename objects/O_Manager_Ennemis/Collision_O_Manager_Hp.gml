@@ -26,6 +26,14 @@ if(invincible == false){	/// @DnDAction : YoYo Games.Collisions.If_Collision_S
 	
 		/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
+		/// @DnDHash : 197817E7
+		/// @DnDParent : 597EADBF
+		/// @DnDArgument : "expr" "true"
+		/// @DnDArgument : "var" "O_Manager_Hp.invincible1"
+		O_Manager_Hp.invincible1 = true;
+	
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
 		/// @DnDHash : 3DC497F6
 		/// @DnDParent : 597EADBF
 		/// @DnDArgument : "expr" "true"

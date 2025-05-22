@@ -6,8 +6,8 @@
   "name":"O_Ombre_Debout",
   "overriddenProperties":[],
   "parent":{
-    "name":"Ennemis",
-    "path":"folders/Objects/Ennemis.yy",
+    "name":"Ombre",
+    "path":"folders/Objects/Ennemis/Ombre.yy",
   },
   "parentObjectId":{
     "name":"O_Manager_Ombre",

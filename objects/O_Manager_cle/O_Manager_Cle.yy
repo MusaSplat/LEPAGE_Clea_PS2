@@ -8,8 +8,8 @@
   "name":"O_Manager_Cle",
   "overriddenProperties":[],
   "parent":{
-    "name":"Manager",
-    "path":"folders/Objects/Manager.yy",
+    "name":"Manager Joueur",
+    "path":"folders/Objects/Manager/Manager Joueur.yy",
   },
   "parentObjectId":null,
   "persistent":false,

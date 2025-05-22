@@ -13,8 +13,8 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Ennemis","path":"objects/O_Manager_Ennemis/O_Manager_Ennemis.yy",},"propertyId":{"name":"hp","path":"objects/O_Manager_Ennemis/O_Manager_Ennemis.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1",},
   ],
   "parent":{
-    "name":"Ennemis",
-    "path":"folders/Objects/Ennemis.yy",
+    "name":"Scientifiques",
+    "path":"folders/Objects/Ennemis/Scientifiques.yy",
   },
   "parentObjectId":{
     "name":"O_Manager_Ennemis",

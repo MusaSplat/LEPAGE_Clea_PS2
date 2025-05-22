@@ -10,8 +10,8 @@
   "name":"O_Manager_Ombre",
   "overriddenProperties":[],
   "parent":{
-    "name":"Manager",
-    "path":"folders/Objects/Manager.yy",
+    "name":"Manager Ennemis",
+    "path":"folders/Objects/Manager/Manager Ennemis.yy",
   },
   "parentObjectId":null,
   "persistent":false,
