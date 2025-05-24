@@ -105,6 +105,7 @@
     {"id":{"name":"S_Joueur_Gauche","path":"sprites/S_Joueur_Gauche/S_Joueur_Gauche.yy",},},
     {"id":{"name":"S_Magnetique_Bleu","path":"sprites/S_Magnetique_Bleu/S_Magnetique_Bleu.yy",},},
     {"id":{"name":"S_Magnetique_Rouge","path":"sprites/S_Magnetique_Rouge/S_Magnetique_Rouge.yy",},},
+    {"id":{"name":"S_Monstre","path":"sprites/S_Monstre/S_Monstre.yy",},},
     {"id":{"name":"S_Ombre_Debout","path":"sprites/S_Ombre_Debout/S_Ombre_Debout.yy",},},
     {"id":{"name":"S_Ombre_Flaque","path":"sprites/S_Ombre_Flaque/S_Ombre_Flaque.yy",},},
     {"id":{"name":"S_Ombre_Grimpant","path":"sprites/S_Ombre_Grimpant/S_Ombre_Grimpant.yy",},},

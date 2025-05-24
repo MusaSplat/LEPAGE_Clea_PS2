@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"S_Flaque_Plafond",
   "bboxMode":0,
-  "bbox_bottom":63,
+  "bbox_bottom":26,
   "bbox_left":0,
   "bbox_right":63,
   "bbox_top":0,
@@ -19,6 +19,7 @@
   "height":64,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"a67e01e2-4b9e-4ed3-97a8-6f1d608dfc40","blendMode":0,"displayName":"Layer 1","isLocked":true,"name":"a67e01e2-4b9e-4ed3-97a8-6f1d608dfc40","opacity":44.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
     {"$GMImageLayer":"","%Name":"b5965c19-db33-492c-b252-ed903242d694","blendMode":0,"displayName":"default","isLocked":false,"name":"b5965c19-db33-492c-b252-ed903242d694","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"S_Flaque_Plafond",

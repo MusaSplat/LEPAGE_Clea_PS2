@@ -4,7 +4,7 @@
   "bboxMode":0,
   "bbox_bottom":63,
   "bbox_left":0,
-  "bbox_right":32,
+  "bbox_right":24,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -19,7 +19,7 @@
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"b5965c19-db33-492c-b252-ed903242d694","blendMode":0,"displayName":"default","isLocked":true,"name":"b5965c19-db33-492c-b252-ed903242d694","opacity":40.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"b5965c19-db33-492c-b252-ed903242d694","blendMode":0,"displayName":"default","isLocked":true,"name":"b5965c19-db33-492c-b252-ed903242d694","opacity":40.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
     {"$GMImageLayer":"","%Name":"75cc8a5e-9b48-40f1-a8b0-ead20a6c5b6c","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"75cc8a5e-9b48-40f1-a8b0-ead20a6c5b6c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"S_Flaque_Mur",
