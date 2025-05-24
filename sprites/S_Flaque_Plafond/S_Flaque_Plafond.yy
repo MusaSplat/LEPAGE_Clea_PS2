@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"S_Flaque_Plafond",
   "bboxMode":0,
-  "bbox_bottom":26,
+  "bbox_bottom":38,
   "bbox_left":0,
   "bbox_right":63,
   "bbox_top":0,
