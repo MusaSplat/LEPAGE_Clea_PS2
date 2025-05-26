@@ -3,7 +3,7 @@
   "%Name":"S_Joueur_Gauche",
   "bboxMode":0,
   "bbox_bottom":63,
-  "bbox_left":21,
+  "bbox_left":20,
   "bbox_right":47,
   "bbox_top":0,
   "collisionKind":1,
@@ -19,6 +19,7 @@
   "height":64,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"f370a3e6-eec5-4c45-b7c8-7a604c83be6d","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"f370a3e6-eec5-4c45-b7c8-7a604c83be6d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
     {"$GMImageLayer":"","%Name":"a7425cf4-a70d-4e77-8de2-366d5a27bb41","blendMode":0,"displayName":"default","isLocked":false,"name":"a7425cf4-a70d-4e77-8de2-366d5a27bb41","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"S_Joueur_Gauche",

@@ -26,8 +26,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Tiles",
-    "path":"folders/Sprites/Tiles.yy",
+    "name":"Cadre de base",
+    "path":"folders/Sprites/Tiles/Cadre de base.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
