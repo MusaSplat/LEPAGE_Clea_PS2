@@ -3,7 +3,7 @@
   "%Name":"S_Joueur_Droite",
   "bboxMode":0,
   "bbox_bottom":63,
-  "bbox_left":9,
+  "bbox_left":16,
   "bbox_right":42,
   "bbox_top":0,
   "collisionKind":1,

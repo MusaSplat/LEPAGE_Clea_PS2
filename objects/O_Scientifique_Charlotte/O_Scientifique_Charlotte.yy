@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Scientifique_Charlotte",
-    "path":"sprites/S_Scientifique_Charlotte/S_Scientifique_Charlotte.yy",
+    "name":"S_Scientifique_Casque",
+    "path":"sprites/S_Scientifique_Casque/S_Scientifique_Casque.yy",
   },
   "spriteMaskId":null,
   "visible":true,

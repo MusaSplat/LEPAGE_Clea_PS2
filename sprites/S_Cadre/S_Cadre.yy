@@ -19,8 +19,8 @@
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"b3ada569-3b14-4869-ae5a-cccbfee8bbe0","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"b3ada569-3b14-4869-ae5a-cccbfee8bbe0","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"d0cd23dd-3508-4d21-ae41-0d791f038715","blendMode":0,"displayName":"default","isLocked":true,"name":"d0cd23dd-3508-4d21-ae41-0d791f038715","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"b3ada569-3b14-4869-ae5a-cccbfee8bbe0","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"b3ada569-3b14-4869-ae5a-cccbfee8bbe0","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"S_Cadre",
   "nineSlice":null,
