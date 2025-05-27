@@ -29,8 +29,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Conteneur casser",
-    "path":"folders/Sprites/Tiles/Conteneur casser.yy",
+    "name":"Conteneur normal",
+    "path":"folders/Sprites/Tiles/Conteneur normal.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
