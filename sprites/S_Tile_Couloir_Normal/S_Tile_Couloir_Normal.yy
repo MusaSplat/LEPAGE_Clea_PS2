@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"S_Tile_Laboratoire",
+  "%Name":"S_Tile_Couloir_Normal",
   "bboxMode":0,
   "bbox_bottom":191,
   "bbox_left":0,
@@ -22,19 +22,19 @@
     {"$GMImageLayer":"","%Name":"ce3a2874-213c-4115-8c6d-55e97cf75f64","blendMode":0,"displayName":"default","isLocked":true,"name":"ce3a2874-213c-4115-8c6d-55e97cf75f64","opacity":56.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"cdf994e5-816b-4aaf-ae8b-13774ad3669f","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"cdf994e5-816b-4aaf-ae8b-13774ad3669f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"S_Tile_Laboratoire",
+  "name":"S_Tile_Couloir_Normal",
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Laboratoire",
-    "path":"folders/Sprites/Tiles/Laboratoire.yy",
+    "name":"Couloir",
+    "path":"folders/Sprites/Tiles/Couloir.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"S_Tile_Laboratoire",
+    "%Name":"S_Tile_Couloir_Normal",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -58,7 +58,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"S_Tile_Laboratoire",
+    "name":"S_Tile_Couloir_Normal",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -70,7 +70,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6b897156-a2a9-48e7-89ca-d05ed69f72d8","path":"sprites/S_Tile_Laboratoire/S_Tile_Laboratoire.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6b897156-a2a9-48e7-89ca-d05ed69f72d8","path":"sprites/S_Tile_Couloir_Normal/S_Tile_Couloir_Normal.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"2f1da79b-6b3b-4463-91c2-4c188403a8ab","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
