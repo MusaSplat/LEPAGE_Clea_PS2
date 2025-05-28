@@ -147,6 +147,7 @@
     {"id":{"name":"S_Tile_Couloir_Normal","path":"sprites/S_Tile_Couloir_Normal/S_Tile_Couloir_Normal.yy",},},
     {"id":{"name":"S_Tile_Laboratoire","path":"sprites/S_Tile_Laboratoire/S_Tile_Laboratoire.yy",},},
     {"id":{"name":"S_Tile_Taille_192","path":"sprites/S_Tile_Taille_192/S_Tile_Taille_192.yy",},},
+    {"id":{"name":"S_Tile_Ventilation","path":"sprites/S_Tile_Ventilation/S_Tile_Ventilation.yy",},},
     {"id":{"name":"S_Titre_Jeu","path":"sprites/S_Titre_Jeu/S_Titre_Jeu.yy",},},
     {"id":{"name":"T_Laboratoire","path":"tilesets/T_Laboratoire/T_Laboratoire.yy",},},
   ],
