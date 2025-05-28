@@ -19,7 +19,7 @@
   "height":192,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"ce3a2874-213c-4115-8c6d-55e97cf75f64","blendMode":0,"displayName":"default","isLocked":true,"name":"ce3a2874-213c-4115-8c6d-55e97cf75f64","opacity":56.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"ce3a2874-213c-4115-8c6d-55e97cf75f64","blendMode":0,"displayName":"default","isLocked":true,"name":"ce3a2874-213c-4115-8c6d-55e97cf75f64","opacity":56.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
     {"$GMImageLayer":"","%Name":"cdf994e5-816b-4aaf-ae8b-13774ad3669f","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"cdf994e5-816b-4aaf-ae8b-13774ad3669f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"S_Tile_Couloir_Normal",
