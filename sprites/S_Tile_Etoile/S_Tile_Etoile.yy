@@ -19,7 +19,10 @@
   "height":192,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"ce3a2874-213c-4115-8c6d-55e97cf75f64","blendMode":0,"displayName":"default","isLocked":false,"name":"ce3a2874-213c-4115-8c6d-55e97cf75f64","opacity":56.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
+    {"$GMImageLayer":"","%Name":"ce3a2874-213c-4115-8c6d-55e97cf75f64","blendMode":0,"displayName":"default","isLocked":false,"name":"ce3a2874-213c-4115-8c6d-55e97cf75f64","opacity":56.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"cfec337a-df0e-41f3-b012-348581e90b15","blendMode":0,"displayName":"Layer 3","isLocked":false,"name":"cfec337a-df0e-41f3-b012-348581e90b15","opacity":58.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"44d1c8ef-c692-469b-bbfb-41fc3d97258a","blendMode":0,"displayName":"Layer 4","isLocked":true,"name":"44d1c8ef-c692-469b-bbfb-41fc3d97258a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
+    {"$GMImageLayer":"","%Name":"53b153fa-0680-49c8-9acb-3fdb9db64be6","blendMode":0,"displayName":"Layer 2","isLocked":false,"name":"53b153fa-0680-49c8-9acb-3fdb9db64be6","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"cdf994e5-816b-4aaf-ae8b-13774ad3669f","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"cdf994e5-816b-4aaf-ae8b-13774ad3669f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"S_Tile_Etoile",
