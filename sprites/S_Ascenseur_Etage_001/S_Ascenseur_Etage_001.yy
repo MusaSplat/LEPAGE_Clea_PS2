@@ -21,8 +21,8 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"9c312e69-33b7-4751-a77c-32e6c7764387","blendMode":0,"displayName":"Layer 2","isLocked":true,"name":"9c312e69-33b7-4751-a77c-32e6c7764387","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
-    {"$GMImageLayer":"","%Name":"2b77bb5d-9f72-4138-9def-8014a454937d","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"2b77bb5d-9f72-4138-9def-8014a454937d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"943c59ff-7782-4695-8ff1-51fc22e307a9","blendMode":0,"displayName":"FOND TEMPORAIRE","isLocked":true,"name":"943c59ff-7782-4695-8ff1-51fc22e307a9","opacity":42.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"2b77bb5d-9f72-4138-9def-8014a454937d","blendMode":0,"displayName":"Layer 1","isLocked":true,"name":"2b77bb5d-9f72-4138-9def-8014a454937d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"943c59ff-7782-4695-8ff1-51fc22e307a9","blendMode":0,"displayName":"FOND TEMPORAIRE","isLocked":false,"name":"943c59ff-7782-4695-8ff1-51fc22e307a9","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"S_Ascenseur_Etage_001",
   "nineSlice":null,
