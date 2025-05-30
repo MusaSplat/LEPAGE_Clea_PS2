@@ -1,6 +1,6 @@
 {
   "$GMObject":"",
-  "%Name":"O_Bouton",
+  "%Name":"O_Bouton_Fin",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -10,7 +10,7 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":11,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_Bouton",
+  "name":"O_Bouton_Fin",
   "overriddenProperties":[],
   "parent":{
     "name":"UI",
@@ -32,7 +32,7 @@
   "physicsStartAwake":true,
   "properties":[
     {"$GMObjectProperty":"v1","%Name":"button_text","filters":[],"listItems":[],"multiselect":false,"name":"button_text","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"button_text","varType":2,},
-    {"$GMObjectProperty":"v1","%Name":"button_text_color","filters":[],"listItems":[],"multiselect":false,"name":"button_text_color","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"$FFFFFFFF","varType":7,},
+    {"$GMObjectProperty":"v1","%Name":"button_text_color","filters":[],"listItems":[],"multiselect":false,"name":"button_text_color","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"$FF000000","varType":7,},
     {"$GMObjectProperty":"v1","%Name":"button_selection_color","filters":[],"listItems":[],"multiselect":false,"name":"button_selection_color","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"$FFAAA177","varType":7,},
     {"$GMObjectProperty":"v1","%Name":"script_to_execute","filters":[],"listItems":[],"multiselect":false,"name":"script_to_execute","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":5,},
   ],
@@ -40,8 +40,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Bouton_Demarrage",
-    "path":"sprites/S_Bouton_Demarrage/S_Bouton_Demarrage.yy",
+    "name":"S_Bouton_Fin",
+    "path":"sprites/S_Bouton_Fin/S_Bouton_Fin.yy",
   },
   "spriteMaskId":null,
   "visible":true,

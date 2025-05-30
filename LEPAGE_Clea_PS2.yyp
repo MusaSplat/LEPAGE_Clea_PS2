@@ -53,6 +53,7 @@
     {"$GMFolder":"","%Name":"Narratif","folderPath":"folders/Sprites/Tiles/Narratif.yy","name":"Narratif","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Ventilation","folderPath":"folders/Sprites/Tiles/Ventilation.yy","name":"Ventilation","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"UI","folderPath":"folders/Sprites/UI.yy","name":"UI","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Bouton","folderPath":"folders/Sprites/UI/Bouton.yy","name":"Bouton","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
@@ -64,6 +65,7 @@
   },
   "name":"LEPAGE_Clea_PS2",
   "resources":[
+    {"id":{"name":"O_Bouton_Fin","path":"objects/O_Bouton_Fin/O_Bouton_Fin.yy",},},
     {"id":{"name":"O_Bouton","path":"objects/O_Bouton/O_Bouton.yy",},},
     {"id":{"name":"O_Checkpoint","path":"objects/O_Checkpoint/O_Checkpoint.yy",},},
     {"id":{"name":"O_Collision","path":"objects/O_Collision/O_Collision.yy",},},
@@ -92,6 +94,7 @@
     {"id":{"name":"R_Game_Over","path":"rooms/R_Game_Over/R_Game_Over.yy",},},
     {"id":{"name":"R_Niveau","path":"rooms/R_Niveau/R_Niveau.yy",},},
     {"id":{"name":"R_Test","path":"rooms/R_Test/R_Test.yy",},},
+    {"id":{"name":"R_UI_Fin","path":"rooms/R_UI_Fin/R_UI_Fin.yy",},},
     {"id":{"name":"R_UI","path":"rooms/R_UI/R_UI.yy",},},
     {"id":{"name":"Sr_ExitGame","path":"scripts/Sr_ExitGame/Sr_ExitGame.yy",},},
     {"id":{"name":"Sr_LaunchRoom","path":"scripts/Sr_LaunchRoom/Sr_LaunchRoom.yy",},},
@@ -172,6 +175,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"R_UI","path":"rooms/R_UI/R_UI.yy",},},
+    {"roomId":{"name":"R_UI_Fin","path":"rooms/R_UI_Fin/R_UI_Fin.yy",},},
     {"roomId":{"name":"R_Niveau","path":"rooms/R_Niveau/R_Niveau.yy",},},
     {"roomId":{"name":"R_Test","path":"rooms/R_Test/R_Test.yy",},},
     {"roomId":{"name":"R_Game_Over","path":"rooms/R_Game_Over/R_Game_Over.yy",},},
