@@ -14,7 +14,17 @@ var l48772177_0;l48772177_0 = keyboard_check(vk_right);if (!l48772177_0){	//
 		/// @DnDHash : 048C6E11
 		/// @DnDParent : 3EF1AC0B
 		/// @DnDArgument : "type" "1"
-		hspeed = 0;}}
+		hspeed = 0;
+	
+		/// @DnDAction : YoYo Games.Instances.Set_Sprite
+		/// @DnDVersion : 1
+		/// @DnDHash : 2CDFACDD
+		/// @DnDParent : 3EF1AC0B
+		/// @DnDArgument : "imageind_relative" "1"
+		/// @DnDArgument : "spriteind" "S_Joueur_Droite"
+		/// @DnDSaveInfo : "spriteind" "S_Joueur_Droite"
+		sprite_index = S_Joueur_Droite;
+		image_index += 0;}}
 
 /// @DnDAction : YoYo Games.Collisions.If_Collision_Shape
 /// @DnDVersion : 1.1

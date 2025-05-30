@@ -3,7 +3,7 @@
   "%Name":"S_Joueur_Gauche_Marche",
   "bboxMode":0,
   "bbox_bottom":63,
-  "bbox_left":17,
+  "bbox_left":20,
   "bbox_right":47,
   "bbox_top":0,
   "collisionKind":1,
@@ -13,15 +13,17 @@
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"","%Name":"9d8f3405-d356-4355-980c-f636adff3af5","name":"9d8f3405-d356-4355-980c-f636adff3af5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"45f3418d-cea4-4c3b-8f39-10c326391d5b","name":"45f3418d-cea4-4c3b-8f39-10c326391d5b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"d6d96eb1-54e7-4498-81c0-79950c55a897","name":"d6d96eb1-54e7-4498-81c0-79950c55a897","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"31ef58e4-d47c-49a9-9045-5dfe354242e9","name":"31ef58e4-d47c-49a9-9045-5dfe354242e9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"3de81fde-eef4-40fd-8006-11f354d6f621","name":"3de81fde-eef4-40fd-8006-11f354d6f621","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"f370a3e6-eec5-4c45-b7c8-7a604c83be6d","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"f370a3e6-eec5-4c45-b7c8-7a604c83be6d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
-    {"$GMImageLayer":"","%Name":"a7425cf4-a70d-4e77-8de2-366d5a27bb41","blendMode":0,"displayName":"default","isLocked":false,"name":"a7425cf4-a70d-4e77-8de2-366d5a27bb41","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"a7425cf4-a70d-4e77-8de2-366d5a27bb41","blendMode":0,"displayName":"default","isLocked":false,"name":"a7425cf4-a70d-4e77-8de2-366d5a27bb41","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
+    {"$GMImageLayer":"","%Name":"f370a3e6-eec5-4c45-b7c8-7a604c83be6d","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"f370a3e6-eec5-4c45-b7c8-7a604c83be6d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"S_Joueur_Gauche_Marche",
   "nineSlice":null,
@@ -51,7 +53,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":2.0,
+    "length":4.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -70,8 +72,18 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"9d8f3405-d356-4355-980c-f636adff3af5","path":"sprites/S_Joueur_Gauche_Marche/S_Joueur_Gauche_Marche.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"3d5d7753-6a22-4f1a-87a3-4d4a4e086152","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"45f3418d-cea4-4c3b-8f39-10c326391d5b","path":"sprites/S_Joueur_Gauche_Marche/S_Joueur_Gauche_Marche.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"eb3b0a4c-fdf9-4067-a78b-ea4ce8ac77a5","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9d8f3405-d356-4355-980c-f636adff3af5","path":"sprites/S_Joueur_Gauche_Marche/S_Joueur_Gauche_Marche.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"3d5d7753-6a22-4f1a-87a3-4d4a4e086152","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d6d96eb1-54e7-4498-81c0-79950c55a897","path":"sprites/S_Joueur_Gauche_Marche/S_Joueur_Gauche_Marche.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"85e8aa86-b819-4f62-802b-67894f663930","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"31ef58e4-d47c-49a9-9045-5dfe354242e9","path":"sprites/S_Joueur_Gauche_Marche/S_Joueur_Gauche_Marche.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"aeb15498-95c0-4866-8e6c-5e7fd8fa1205","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3de81fde-eef4-40fd-8006-11f354d6f621","path":"sprites/S_Joueur_Gauche_Marche/S_Joueur_Gauche_Marche.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"ee5eaec6-913c-42c1-b793-ff309ca62c9d","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
