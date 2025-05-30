@@ -8,6 +8,7 @@
   "instanceCreationOrder":[
     {"name":"inst_B0BA5F","path":"rooms/R_Game_Over/R_Game_Over.yy",},
     {"name":"inst_7CB94152","path":"rooms/R_Game_Over/R_Game_Over.yy",},
+    {"name":"inst_4EA80888","path":"rooms/R_Game_Over/R_Game_Over.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -15,14 +16,15 @@
         {"$GMRInstance":"v1","%Name":"inst_B0BA5F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_B0BA5F","objectId":{"name":"O_Bouton","path":"objects/O_Bouton/O_Bouton.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Bouton","path":"objects/O_Bouton/O_Bouton.yy",},"propertyId":{"name":"button_text","path":"objects/O_Bouton/O_Bouton.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Restart",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Bouton","path":"objects/O_Bouton/O_Bouton.yy",},"propertyId":{"name":"script_to_execute","path":"objects/O_Bouton/O_Bouton.yy",},"resource":{"name":"Sr_LaunchRoom","path":"scripts/Sr_LaunchRoom/Sr_LaunchRoom.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Sr_LaunchRoom",},
-          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":960.0,"y":64.0,},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1408.0,"y":192.0,},
         {"$GMRInstance":"v1","%Name":"inst_7CB94152","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7CB94152","objectId":{"name":"O_Bouton","path":"objects/O_Bouton/O_Bouton.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Bouton","path":"objects/O_Bouton/O_Bouton.yy",},"propertyId":{"name":"button_text","path":"objects/O_Bouton/O_Bouton.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Exit",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Bouton","path":"objects/O_Bouton/O_Bouton.yy",},"propertyId":{"name":"script_to_execute","path":"objects/O_Bouton/O_Bouton.yy",},"resource":{"name":"Sr_ExitGame","path":"scripts/Sr_ExitGame/Sr_ExitGame.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Sr_ExitGame",},
-          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":960.0,"y":448.0,},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1408.0,"y":576.0,},
+        {"$GMRInstance":"v1","%Name":"inst_4EA80888","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4EA80888","objectId":{"name":"O_Game_Over","path":"objects/O_Game_Over/O_Game_Over.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":0.0,},
       ],"layers":[],"name":"UI","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Backround","depth":100,"effectEnabled":true,"effectType":null,"gridX":64,"gridY":64,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Backround","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
+    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"S_Debut","path":"sprites/S_Debut/S_Debut.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "name":"R_Game_Over",
   "parent":{
@@ -40,10 +42,10 @@
   "resourceType":"GMRoom",
   "resourceVersion":"2.0",
   "roomSettings":{
-    "Height":768,
+    "Height":1056,
     "inheritRoomSettings":false,
     "persistent":false,
-    "Width":1366,
+    "Width":1920,
   },
   "sequenceId":null,
   "views":[
