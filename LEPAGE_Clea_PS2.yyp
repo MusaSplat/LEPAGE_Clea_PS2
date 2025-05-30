@@ -1,5 +1,5 @@
 {
-  "$GMProject":"",
+  "$GMProject":"v1",
   "%Name":"LEPAGE_Clea_PS2",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
@@ -56,6 +56,7 @@
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
+  "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
@@ -128,7 +129,9 @@
     {"id":{"name":"S_Garde","path":"sprites/S_Garde/S_Garde.yy",},},
     {"id":{"name":"S_Grand_Tile_Labo","path":"sprites/S_Grand_Tile_Labo/S_Grand_Tile_Labo.yy",},},
     {"id":{"name":"S_Grand_Tile","path":"sprites/S_Grand_Tile/S_Grand_Tile.yy",},},
+    {"id":{"name":"S_Joueur_Droite_Marche","path":"sprites/S_Joueur_Droite_Marche/S_Joueur_Droite_Marche.yy",},},
     {"id":{"name":"S_Joueur_Droite","path":"sprites/S_Joueur_Droite/S_Joueur_Droite.yy",},},
+    {"id":{"name":"S_Joueur_Gauche_Marche","path":"sprites/S_Joueur_Gauche_Marche/S_Joueur_Gauche_Marche.yy",},},
     {"id":{"name":"S_Joueur_Gauche","path":"sprites/S_Joueur_Gauche/S_Joueur_Gauche.yy",},},
     {"id":{"name":"S_Joueur_Mort_Droite","path":"sprites/S_Joueur_Mort_Droite/S_Joueur_Mort_Droite.yy",},},
     {"id":{"name":"S_Joueur_Mort_Gauche","path":"sprites/S_Joueur_Mort_Gauche/S_Joueur_Mort_Gauche.yy",},},

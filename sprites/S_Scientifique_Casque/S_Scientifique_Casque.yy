@@ -3,7 +3,7 @@
   "%Name":"S_Scientifique_Casque",
   "bboxMode":0,
   "bbox_bottom":63,
-  "bbox_left":21,
+  "bbox_left":16,
   "bbox_right":46,
   "bbox_top":3,
   "collisionKind":1,
@@ -13,12 +13,16 @@
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"","%Name":"977eb3a4-bfeb-486e-8aea-e12be61a6f9b","name":"977eb3a4-bfeb-486e-8aea-e12be61a6f9b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"88845cc0-b142-484d-967e-9f30ec1e1b53","name":"88845cc0-b142-484d-967e-9f30ec1e1b53","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"1d04c042-2f7a-4cc0-ad9f-a7121706e378","name":"1d04c042-2f7a-4cc0-ad9f-a7121706e378","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"79adb0ef-ac26-49a8-ad38-ec776bbe046c","name":"79adb0ef-ac26-49a8-ad38-ec776bbe046c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":64,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"a4f365b9-d31b-49c8-a91e-9203b7e30245","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"a4f365b9-d31b-49c8-a91e-9203b7e30245","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"69e3a90b-e7d5-4c2c-a273-1d9747281213","blendMode":0,"displayName":"default","isLocked":false,"name":"69e3a90b-e7d5-4c2c-a273-1d9747281213","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"S_Scientifique_Casque",
@@ -32,7 +36,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"S_Scientifique_Casque",
     "autoRecord":true,
     "backdropHeight":768,
@@ -49,7 +53,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":1.0,
+    "length":4.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -59,7 +63,7 @@
     },
     "name":"S_Scientifique_Casque",
     "playback":1,
-    "playbackSpeed":30.0,
+    "playbackSpeed":3.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
@@ -68,9 +72,10 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"977eb3a4-bfeb-486e-8aea-e12be61a6f9b","path":"sprites/S_Scientifique_Casque/S_Scientifique_Casque.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"9e7de53e-a94f-40a4-b245-a18158713538","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"977eb3a4-bfeb-486e-8aea-e12be61a6f9b","path":"sprites/S_Scientifique_Casque/S_Scientifique_Casque.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"9e7de53e-a94f-40a4-b245-a18158713538","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"88845cc0-b142-484d-967e-9f30ec1e1b53","path":"sprites/S_Scientifique_Casque/S_Scientifique_Casque.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"e96c1856-3053-4a57-9087-ea3a02cad48c","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"1d04c042-2f7a-4cc0-ad9f-a7121706e378","path":"sprites/S_Scientifique_Casque/S_Scientifique_Casque.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"fdfd47c1-cb9a-4f56-a02c-85dda21b0af8","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"79adb0ef-ac26-49a8-ad38-ec776bbe046c","path":"sprites/S_Scientifique_Casque/S_Scientifique_Casque.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"27eca905-28b5-4f0f-8349-dbdc26fc8414","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
