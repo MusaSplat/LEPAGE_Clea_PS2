@@ -40,8 +40,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Bouton",
-    "path":"sprites/S_Bouton/S_Bouton.yy",
+    "name":"S_Bouton_Demarrage",
+    "path":"sprites/S_Bouton_Demarrage/S_Bouton_Demarrage.yy",
   },
   "spriteMaskId":null,
   "visible":true,
