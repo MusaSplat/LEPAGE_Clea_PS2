@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"S_Tile_de_fin_de_niveau",
+  "%Name":"S_Sol",
   "bboxMode":0,
   "bbox_bottom":0,
   "bbox_left":0,
@@ -12,28 +12,28 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"6105ea54-e1bf-4056-b92b-360f3162c823","name":"6105ea54-e1bf-4056-b92b-360f3162c823","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"f157b52b-7695-4c2a-bc3a-3d067deb4be6","name":"f157b52b-7695-4c2a-bc3a-3d067deb4be6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"f897fcb1-17ee-442f-b6a1-66c5c7b7e052","blendMode":0,"displayName":"default","isLocked":false,"name":"f897fcb1-17ee-442f-b6a1-66c5c7b7e052","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"8ed08950-9d73-4c55-a3a1-736906b11eba","blendMode":0,"displayName":"default","isLocked":false,"name":"8ed08950-9d73-4c55-a3a1-736906b11eba","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"S_Tile_de_fin_de_niveau",
+  "name":"S_Sol",
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Laboratoire",
-    "path":"folders/Sprites/Tiles/Laboratoire.yy",
+    "name":"Tiles",
+    "path":"folders/Sprites/Tiles.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"S_Tile_de_fin_de_niveau",
+    "%Name":"S_Sol",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"S_Tile_de_fin_de_niveau",
+    "name":"S_Sol",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6105ea54-e1bf-4056-b92b-360f3162c823","path":"sprites/S_Tile_de_fin_de_niveau/S_Tile_de_fin_de_niveau.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"552ef031-5e23-4a2b-bca4-69ebd25b83e9","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f157b52b-7695-4c2a-bc3a-3d067deb4be6","path":"sprites/S_Sol/S_Sol.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"f5f86d9b-f31d-4fe8-a1e7-c726da5c431a","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
