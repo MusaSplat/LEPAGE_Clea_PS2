@@ -35,7 +35,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"v1",
+    "$GMSequence":"",
     "%Name":"S_Joueur_Droite_Marche",
     "autoRecord":true,
     "backdropHeight":768,

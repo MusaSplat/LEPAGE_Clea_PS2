@@ -55,7 +55,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"v1",
+    "$GMSequence":"",
     "%Name":"S_Conteneur_Casser_002",
     "autoRecord":true,
     "backdropHeight":768,
