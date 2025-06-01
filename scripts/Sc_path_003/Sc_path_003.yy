@@ -1,12 +1,12 @@
 {
   "$GMScript":"v1",
-  "%Name":"Sc_path_Scientifique",
+  "%Name":"Sc_path_003",
   "isCompatibility":false,
   "isDnD":true,
-  "name":"Sc_path_Scientifique",
+  "name":"Sc_path_003",
   "parent":{
-    "name":"Scripts",
-    "path":"folders/Scripts.yy",
+    "name":"Path",
+    "path":"folders/Scripts/Path.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

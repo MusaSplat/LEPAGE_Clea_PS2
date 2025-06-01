@@ -1,16 +1,16 @@
 {
   "$GMPath":"",
-  "%Name":"P_Scientifique",
+  "%Name":"Path3",
   "closed":false,
   "kind":0,
-  "name":"P_Scientifique",
+  "name":"Path3",
   "parent":{
     "name":"Paths",
     "path":"folders/Paths.yy",
   },
   "points":[
-    {"speed":100.0,"x":703.0,"y":640.0,},
-    {"speed":100.0,"x":1023.7602,"y":640.2324,},
+    {"speed":100.0,"x":223.13983,"y":480.04092,},
+    {"speed":100.0,"x":608.1515,"y":478.71997,},
   ],
   "precision":4,
   "resourceType":"GMPath",
