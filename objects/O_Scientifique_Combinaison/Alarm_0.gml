@@ -25,4 +25,12 @@ if(hp <= 0){	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 45D1A2B0
 	/// @DnDParent : 06733C61
-	instance_destroy();}
+	instance_destroy();
+
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1.1
+	/// @DnDHash : 48DBA8AF
+	/// @DnDParent : 06733C61
+	/// @DnDArgument : "soundid" "Sound_Ennemis_002"
+	/// @DnDSaveInfo : "soundid" "Sound_Ennemis_002"
+	audio_play_sound(Sound_Ennemis_002, 0, 0, 1.0, undefined, 1.0);}

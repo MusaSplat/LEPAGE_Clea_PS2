@@ -25,4 +25,12 @@ if(hp <= 0){	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDArgument : "objectid" "O_Magnetique_Bleu"
 	/// @DnDArgument : "layer" ""Ennemis""
 	/// @DnDSaveInfo : "objectid" "O_Magnetique_Bleu"
-	instance_create_layer(x + 0, y + 0, "Ennemis", O_Magnetique_Bleu);}
+	instance_create_layer(x + 0, y + 0, "Ennemis", O_Magnetique_Bleu);
+
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1.1
+	/// @DnDHash : 2938B238
+	/// @DnDParent : 01633CB8
+	/// @DnDArgument : "soundid" "Sound_Ennemis_002"
+	/// @DnDSaveInfo : "soundid" "Sound_Ennemis_002"
+	audio_play_sound(Sound_Ennemis_002, 0, 0, 1.0, undefined, 1.0);}

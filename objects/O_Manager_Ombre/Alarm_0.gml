@@ -14,4 +14,12 @@ if(hp <= 0){	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 42D25DFA
 	/// @DnDParent : 23AEC2AA
-	instance_destroy();}
+	instance_destroy();
+
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1.1
+	/// @DnDHash : 0C0203C6
+	/// @DnDParent : 23AEC2AA
+	/// @DnDArgument : "soundid" "Sound_Ennemie_001"
+	/// @DnDSaveInfo : "soundid" "Sound_Ennemie_001"
+	audio_play_sound(Sound_Ennemie_001, 0, 0, 1.0, undefined, 1.0);}

@@ -17,4 +17,12 @@ if(O_Manager_Cle.clebleu >= 1){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 1A933C4B
 	/// @DnDParent : 4F3124F6
-	instance_destroy();}
+	instance_destroy();
+
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1.1
+	/// @DnDHash : 7EBE3AB6
+	/// @DnDParent : 4F3124F6
+	/// @DnDArgument : "soundid" "Sound_key"
+	/// @DnDSaveInfo : "soundid" "Sound_key"
+	audio_play_sound(Sound_key, 0, 0, 1.0, undefined, 1.0);}
