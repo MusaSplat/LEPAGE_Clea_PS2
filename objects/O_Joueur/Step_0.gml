@@ -37,10 +37,12 @@ var l48772177_0;l48772177_0 = keyboard_check(vk_right);if (!l48772177_0){	//
 /// @DnDArgument : "x2_relative" "1"
 /// @DnDArgument : "y2" "64"
 /// @DnDArgument : "y2_relative" "1"
+/// @DnDArgument : "target" ""
 /// @DnDArgument : "obj" "O_Collision"
 /// @DnDArgument : "shape" "1"
+/// @DnDArgument : "notme" "0"
 /// @DnDSaveInfo : "obj" "O_Collision"
-var l48E17714_0 = collision_rectangle(x + 2, y + 40, x + 62, y + 64, O_Collision, true, 1);if((l48E17714_0)){	/// @DnDAction : YoYo Games.Common.Variable
+var l48E17714_0 = collision_rectangle(x + 2, y + 40, x + 62, y + 64, O_Collision, true, 0);if((l48E17714_0)){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 154E24B3
 	/// @DnDParent : 48E17714
@@ -59,6 +61,7 @@ var l48E17714_0 = collision_rectangle(x + 2, y + 40, x + 62, y + 64, O_Collision
 /// @DnDArgument : "x2_relative" "1"
 /// @DnDArgument : "y2" "20"
 /// @DnDArgument : "y2_relative" "1"
+/// @DnDArgument : "target" ""
 /// @DnDArgument : "obj" "O_Collision"
 /// @DnDArgument : "shape" "1"
 /// @DnDSaveInfo : "obj" "O_Collision"
@@ -81,6 +84,7 @@ var l17A0BA09_0 = collision_rectangle(x + 3, y + 0, x + 61, y + 20, O_Collision,
 /// @DnDArgument : "x2_relative" "1"
 /// @DnDArgument : "y2" "64"
 /// @DnDArgument : "y2_relative" "1"
+/// @DnDArgument : "target" ""
 /// @DnDArgument : "obj" "O_Collision"
 /// @DnDArgument : "shape" "1"
 /// @DnDSaveInfo : "obj" "O_Collision"
@@ -102,6 +106,7 @@ var l554CC117_0 = collision_rectangle(x + 3, y + 0, x + 64, y + 64, O_Collision,
 /// @DnDArgument : "x2_relative" "1"
 /// @DnDArgument : "y2" "64"
 /// @DnDArgument : "y2_relative" "1"
+/// @DnDArgument : "target" ""
 /// @DnDArgument : "obj" "O_Collision"
 /// @DnDArgument : "shape" "1"
 /// @DnDSaveInfo : "obj" "O_Collision"
@@ -125,6 +130,7 @@ var l7F7FFCAD_0 = collision_rectangle(x + 0, y + 0, x + 20, y + 64, O_Collision,
 /// @DnDArgument : "x2_relative" "1"
 /// @DnDArgument : "y2" "64"
 /// @DnDArgument : "y2_relative" "1"
+/// @DnDArgument : "target" ""
 /// @DnDArgument : "obj" "O_Collision"
 /// @DnDSaveInfo : "obj" "O_Collision"
 var l63C764BB_0 = collision_line(x + 3, y + 64, x + 61, y + 64, O_Collision, true, 1);if((l63C764BB_0)){	/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Pressed
